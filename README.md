@@ -34,7 +34,8 @@ I'm a passionate **Data Engineer** with experience designing, building, and opti
 - **Pandas** | **NumPy** | **SciPy**  
 - **scikit-learn** | **Keras**  
 - **Plotly**
-- 
+
+
 #### 📦 Tools & Platforms
 - **Docker** | **Raspberry Pi** | **Postman**  
 - **Jira**
